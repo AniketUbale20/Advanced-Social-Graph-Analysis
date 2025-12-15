@@ -1,0 +1,5 @@
+{
+  "name": "TwitterNet Analyst",
+  "description": "A professional network analysis tool designed to mimic the workflow of a Data Analyst using NetworkX and Pandas. Analyze follower graphs, detect communities, and generate AI-driven insights.",
+  "requestFramePermissions": []
+}
