@@ -1,16 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🕸️ Social Pulse: Advanced Twitter Network Analysis
 
-# Run and deploy your AI Studio app
+### Beyond standard metrics: Analyze "Relationship Vibes" and Simulate Virality.
 
-This contains everything you need to run your app locally.
+**Social Pulse** is not just a follower graph; it's a behavioral analysis tool. It uses Python, NetworkX, and Pandas to uncover the *quality* of connections, not just the quantity.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1b38es8nFHxnaCJmbwU4lMbB3sXvzsNGv
+#### 🚀 Key Unique Features:
+* **❤️ Relationship Flavor Map:** Edges are color-coded by interaction sentiment (Hostile vs. Supportive) using NLP, not just grey lines.
+* **🔮 Virality Simulator:** A "What-If" sandbox to predict how a tweet spreads through bridge nodes.
+* **📢 Echo Chamber Breaker:** Identifies specific users who act as bridges between opposing communities.
+* **📖 Narrative Generation:** Auto-generates a text-based story of the network's dynamics.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
+#### 🛠️ Tech Stack
+* **Core:** Python 3.10+
+* **Graph Logic:** NetworkX
+* **Data Processing:** Pandas
+* **Visualization:** Matplotlib / Plotlyv
 
 
 1. Install dependencies:
